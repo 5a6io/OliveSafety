@@ -1,12 +1,15 @@
-# 📌OliveSafety
+# 🍀OliveSafety
 
 Subject: Oliveyoung
+
 Description: OliveSafety is based on security and availability. We used AWS for constructing infra architecture.
+
 I was responsible for Security and Log.
 
-### App
+### 📌App
 
 - EKS
+- Kubernetes Version: 1.29
 
 ### 📌CI/CD
 
