@@ -21,7 +21,7 @@ I was responsible for Security and Log.
 
 - Harbor
 
-- Triby
+- Trivy
 
 - ArgoCD
 
