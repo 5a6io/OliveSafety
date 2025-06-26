@@ -1,16 +1,14 @@
-# OliveSafety
-
-Description: OliveSafety is based on security and availability.
+# 📌OliveSafety
 
 Subject: Oliveyoung
-
-I am responsible for Security and Log.
+Description: OliveSafety is based on security and availability. We used AWS for constructing infra architecture.
+I was responsible for Security and Log.
 
 ### App
 
 - EKS
 
-### CI/CD
+### 📌CI/CD
 
 - GitLab
 
@@ -24,7 +22,7 @@ I am responsible for Security and Log.
 
 - ArgoCD
 
-### Security
+### 📌Security
 
 - WAF
 
@@ -40,7 +38,7 @@ I am responsible for Security and Log.
 
 - Detective
 
-### Monitoring/Logging
+### 📌Monitoring/Logging
 
 - Grafana
 
@@ -50,6 +48,6 @@ I am responsible for Security and Log.
 
 - Loki
 
-- Logging System Code➡️ [GitHub - 5a6io/cloud-wave-project-logging: Cloud Wave 3기 팀 프로젝트 EFK / PLG](https://github.com/5a6io/cloud-wave-project-logging)
+- Final Logging System Code➡️ [GitHub - 5a6io/cloud-wave-project-logging: Cloud Wave 3기 팀 프로젝트 EFK / PLG](https://github.com/5a6io/cloud-wave-project-logging)
 
 
