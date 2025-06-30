@@ -10,11 +10,11 @@ I was responsible for Security and Log.
 
 ### 📌Whole Architecture
 
-[whole_architecture](./image/whole_architecture.png)
+![whole_architecture](./image/whole_architecture.png)
 
 ### 📌Security Architecture
 
-[security_architecture](./image/security_architecture.png)
+![security_architecture](./image/security_architecture.png)
 
 ## 🌟Tool
 
