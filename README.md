@@ -6,6 +6,18 @@ Description: OliveSafety is based on security and availability. We used AWS for 
 
 I was responsible for Security and Log.
 
+## 🌟Architecture
+
+### 📌Whole Architecture
+
+[whole_architecture](./image/whole_architecture.png)
+
+### 📌Security Architecture
+
+[security_architecture](./image/security_architecture.png)
+
+## 🌟Tool
+
 ### 📌App
 
 - EKS
@@ -52,5 +64,3 @@ I was responsible for Security and Log.
 - Loki
 
 - Final Logging System Code➡️ [GitHub - 5a6io/cloud-wave-project-logging: Cloud Wave 3기 팀 프로젝트 EFK / PLG](https://github.com/5a6io/cloud-wave-project-logging)
-
-
